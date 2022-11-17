@@ -1,13 +1,15 @@
 - speaker: Victor van der Ween
-  website: 
+  website: https://vvdveen.com/
   date: December 07, 2022
   title:
+  abstract:
+  biography: 
 - speaker: Barry Hensley
   website: "https://www.linkedin.com/in/barry-hensley-72907914/"
   date: November 30, 2022
   title: The State of Cyber Threat
-  abstract: Barry Hensley, Chief Threat Intelligence Officer of Secureworks, discusses the top ways threat actors are continuing to innovate and evolve across the threat landscape. Across ransomware, supply chain exploits, zero-day attacks, business email compromise, and other evolving risks, threat actors aren’t slowing down. In this session, Col. (USA, Retired) Hensley, former Director of the Army’s Global Network Operations and Security Center, shares keen insights into the nature of today’s threats and vulnerabilities.
-  biography: 
+  abstract: This talk discusses the top ways threat actors are continuing to innovate and evolve across the threat landscape. Across ransomware, supply chain exploits, zero-day attacks, business email compromise, and other evolving risks, threat actors aren’t slowing down. In this session, Col. (USA, Retired) Hensley, former Director of the Army’s Global Network Operations and Security Center, shares keen insights into the nature of today’s threats and vulnerabilities.
+  biography: Barry Hensley is the Chief Threat Intelligence Officer of Secureworks and currently responsible for the Securework’s Counter Threat Unit (CTU) Security Research Group and global Incident Response, and Adversary Emulation teams. Before joining SecureWorks, Colonel (US Army, RET) Barry Hensley was the Director of the Army's Global Network Operations and Security Center (AGNOSC). While at the AGNOSC, he was responsible for directing the operations and defense of the Army's portion of the Global Information Grid (GIG) consisting of over 1.2 million users. He served in various leadership positions within the communications and information security career field throughout his 24+ year Army career to include assignments with United States Special Operations Command and deployments to Saudi Arabia, Kuwait, Somalia, and Iraq. He commanded the 57th Signal Battalion in support of the Multi- National Force – Iraq (MNF–I) as part of Operation IRAQI FREEDOM (OIF). He holds a BBA in Information Systems from Georgia Southern University, a M.S. in Telecommunication from the University of Colorado, and a graduate of the National War College. He was named the 2009 Georgia Southern University Alumnus of the Year for the College of Information Technology and was named by Federal Computer Week as a 2008 "Federal 100" winner, a select group of top executives in the Federal IT industry.
 - speaker: Evan Downing
   website: "https://www.evandowning.com/"
   date: November 23, 2022
