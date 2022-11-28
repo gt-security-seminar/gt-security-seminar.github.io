@@ -1,9 +1,9 @@
 ---
 layout: default
-meta-description: "Georgia Institute of Technology Security Seminar"
+meta-description: "Georgia Institute of Technology Student Security Seminar"
 ---
 
-The **Georgia Institute of Technology Security Seminar**, sponsored by [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/), is an opportunity for Georgia Tech faculty and students working in computer security and privacy to present their research and invite guest speakers. 
+The **Georgia Institute of Technology Student Security Seminar**, sponsored by [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/), is an opportunity for Georgia Tech faculty and students working in computer security and privacy to present their research and invite guest speakers. 
 
 To receive regular updates on upcoming talks, as well as Zoom links to join them virtually, please subscribe to the mailing list.
 
