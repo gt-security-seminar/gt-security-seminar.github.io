@@ -22,9 +22,9 @@ If you're interested in presenting a talk, please contact us with a date and tal
 # Upcoming Talks
 
 <div class="talk-list">
-  {% assign now_time = 'now' | date: '%s' | plus: 0 %}
+  {% assign now_time = 'now' | date: '%s' %}
   {% for talk in site.data.talks %}
-  {% assign talk_time = talk.date | date: '%s' | plus: 0 %}
+  {% assign talk_time = talk.date | date: '%s' %}
   {% if talk_time < now_time %}
     {% continue %}
   {% endif %}
@@ -60,7 +60,7 @@ If you're interested in presenting a talk, please contact us with a date and tal
 
 <div class="talk-list">
   {% for talk in site.data.talks %}
-  {% assign talk_time = talk.date | date: '%s' | plus: 0 %}
+  {% assign talk_time = talk.date | date: '%s' %}
   {% if talk_time >= now_time %}
     {% continue %}
   {% endif %}
