@@ -1,9 +1,9 @@
 - speaker: Victor van der Ween
   website: https://vvdveen.com/
   date: December 07, 2022
-  title:
-  abstract:
-  biography: 
+  title: Academia v Industry: The Bright Future of Rowhammer Research
+  abstract: We are approaching one decade of (public) Rowhammer research. Do you remember that one time Rowhammer was used to hijack a journalist’s phone remotely? Or that other time when Rowhammer was used to build a 200K USD exploit chain at pwn2own? How about that leaked Proof-of-Concept that was found in a popular exploit kit available on the black market…? While scientific papers on the topic make you feel the apocalypse is near, industry - and the real world - often seem less pessimistic. Who is right? What is going wrong? And where is the disconnect coming from? In this talk, I investigate and share my perspectives on both worlds.
+  biography: Victor van der Veen is an engineer in Qualcomm’s Product Security Group. Before joining Qualcomm, he obtained his PhD in the VUSec group at Vrije Universiteit Amsterdam. He was among the first to publicly report Rowhammer bit flips in mobile devices. At Qualcomm, he continued his work on this fundamental issue in modern DRAM. In his ongoing attempts to bring academia and industry closer together, he helped some of our best next-generation scientists to publish their seminal Rowhammer research. Although he is currently trying to move to a different field, his past is starting to catch up and Rowhammer keeps coming back at him.
 - speaker: Barry Hensley
   website: "https://www.linkedin.com/in/barry-hensley-72907914/"
   date: November 30, 2022
